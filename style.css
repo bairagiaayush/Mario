@@ -89,11 +89,11 @@ ul.images{
     text-align: center;
 }
 footer{
-    background-color: rgb(220, 53, 53);
+    background-color: cyan;
     padding: 1px;
 }
 .join .copyright {
-    color: white;
+    color: black;
     font-size: 19px;
 }
 form input{
